@@ -8,8 +8,10 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin Overview:
 Here is the preview Link: https://www.stompitparts.com/product/diy-guitar-pedal-wiring-kit-3
+<br/>
+Plugin Overview:
+
 <img width="1230" height="669" alt="image" src="https://github.com/user-attachments/assets/c79f7d62-8c7e-4d21-89b7-76ca20c79713" />
 <img width="1220" height="764" alt="image" src="https://github.com/user-attachments/assets/c2f8d320-1c80-4a79-9fc3-a1b6e893d21b" />
 <img width="1727" height="443" alt="image" src="https://github.com/user-attachments/assets/7734964e-9664-4dc4-8635-817df74a18b1" />
