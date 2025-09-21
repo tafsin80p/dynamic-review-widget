@@ -8,6 +8,9 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
+Plugin Overview: ![Error](https://drive.google.com/file/d/1B27ftbYDsdP45W00gUCkh7SEPrwgND9q/view?usp=sharing)
+
+
 A fully functional, dynamic review system with Elementor widget integration.
 
 == Description ==
