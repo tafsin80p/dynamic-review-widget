@@ -10,6 +10,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Plugin Overview: ![Error](https://drive.google.com/file/d/1B27ftbYDsdP45W00gUCkh7SEPrwgND9q/view?usp=sharing)
 
+<img width="1471" height="526" alt="image" src="https://github.com/user-attachments/assets/58dd21ad-87ab-430a-baf3-7112bb0fe416" />
+
+
 
 A fully functional, dynamic review system with Elementor widget integration.
 
